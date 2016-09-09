@@ -8,4 +8,4 @@
 * .NET Framework
 * Common Language Runtime Context
 * Common Type System
-* C# Types
+* C# Data Types and Variables
